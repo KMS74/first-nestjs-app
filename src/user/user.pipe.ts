@@ -1,7 +1,6 @@
 /*
- - Pipes are a mechanism for processing and validating input data before it is handled by a controller method or passed to a service
-
-
+ - Pipes are a mechanism for processing and validating input data before it is handled by 
+  a controller method or passed to a service
 
 */
 

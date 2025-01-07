@@ -5,7 +5,7 @@ import { UserDto } from './user.dto';
 import { User } from './user.model';
 import { EnrichedUserPipe } from './user.pipe';
 
-@Controller('user')
+@Controller('users')
 export class UserController {
   constructor(
     private readonly userService: UserService,

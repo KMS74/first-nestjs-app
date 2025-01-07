@@ -11,8 +11,8 @@ export class UserModule {}
 
 /*
 
- -Modules help organize your application into smaller parts.
- -Each module groups related code, like controllers and services, 
-  making it easier to manage the codebase.
+ - Modules help organize your application into smaller parts.
+ - Each module groups related code, like controllers and services, 
+    making it easier to manage the codebase.
 
 */

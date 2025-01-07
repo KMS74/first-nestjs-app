@@ -37,9 +37,9 @@ export class UserService {
 
 /* 
  - Services are classes that contain the core logic of your application, 
- like handling user actions.
+    like handling user actions.
 
  - The service classes are annotated with the @Injectable decorator so that they can be
-  injected into controllers or other services using the dependency injection system.
+    injected into controllers or other services using the dependency injection system.
 
 */
